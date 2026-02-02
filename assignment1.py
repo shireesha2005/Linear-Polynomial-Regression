@@ -40,6 +40,7 @@ plt.title("linear regression on data")
 plt.xlabel("X")
 plt.ylabel("y")
 plt.legend()
+plt.savefig("linear_regression.png")
 plt.show()
 
 #polynomial regression 
@@ -103,6 +104,8 @@ plt.title("Polynomial Regression with Increasing Degrees")
 plt.xlabel("X")
 plt.ylabel("y")
 plt.legend()
+plt.savefig("polynomial_regression_degrees.png")
 plt.show()
+
 
 
