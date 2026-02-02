@@ -12,7 +12,7 @@ y = actual value
 y cap(y^) = predicted value 
 *squared error is used for Penalizes large errors and Prevents error cancellation
 
-* What minimizing loss means
+*What minimizing loss means
 
  Loss represents how far off the model's predictions are from actual targets and minimizing the loss function can be done by the  training process of reducing the error between predicted and actual values by optimizing model parameters.
 
