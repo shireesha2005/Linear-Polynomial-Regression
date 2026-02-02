@@ -1,9 +1,14 @@
 # Linear-Polynomial-Regression
 Linear and Polynomial Regression with Bias-Variance Tradeoff
+
 *The Mean Squared Error (MSE) is used as the loss function:
+
 1/n sumation of(y - y^)^2
+
 n= number of inputs
+
 y = actual value
+
 y cap(y^) = predicted value 
 *squared error is used for Penalizes large errors and Prevents error cancellation
 
